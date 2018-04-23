@@ -1,0 +1,14 @@
+
+1 -> add tag do xml
+
+2 -> ler xml
+
+3 -> buscar logo de cabeçario
+
+4 -> montar impressão elgin
+
+5 -> montar impressão da daruma  
+
+6 -> validar a impressora e selecionar qual a válida(instalada ) no sistema 
+
+7 -> montar script de serviço para roda software
